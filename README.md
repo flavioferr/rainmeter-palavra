@@ -2,6 +2,10 @@
 
 **Sem fundo: a hora por extenso acende numa grade de letras.**
 
+*Word — No background: the time in words lights up on a grid of letters.*
+
+Agora também em inglês · Now also in English · [English below](#english)
+
 Skin para o [Rainmeter](https://www.rainmeter.net), minimalista e com tela de configurações própria.
 
 ![Palavra](docs/hero.png)
@@ -49,6 +53,7 @@ Prefira o `.rmskin`: ele já instala o plugin de música. A pasta [`Palavra`](Pa
 
 ## Dicas
 
+- **Idioma:** botão direito em qualquer widget → **English** (ou o botão **EN** nas configurações). Para voltar, **Português**.
 - **Música:** o player lê tudo que aparece nos controles de mídia do Windows — Spotify, YouTube, Netflix e qualquer site no Chrome/Edge/Firefox, Apple Music, Deezer, VLC… O plugin [WebNowPlaying](https://github.com/keifufu/WebNowPlaying-Rainmeter) (MIT) já vem dentro do `.rmskin`; a [extensão do navegador](https://wnp.keifufu.dev) é opcional. Clique na barra de progresso para pular.
 - **Clima:** digite sua cidade nas configurações; as coordenadas são buscadas sozinhas (se não encontrar, tente sem acento). Os dados vêm do [Open-Meteo](https://open-meteo.com), gratuito e sem chave de API.
 - **Mover:** arraste os widgets com o mouse.
@@ -71,6 +76,48 @@ Outras skins recentes da coleção:
 - [Origami](https://github.com/flavioferr/rainmeter-origami) — Cartões de papel dobrado: hora, clima com tsuru, música e semana.
 
 E mais na coleção: [Lumen](https://github.com/flavioferr/rainmeter-lumen), [Horizon](https://github.com/flavioferr/rainmeter-horizon), [Orbit](https://github.com/flavioferr/rainmeter-orbit), [Shell](https://github.com/flavioferr/rainmeter-shell), [Folio](https://github.com/flavioferr/rainmeter-folio), [Bento](https://github.com/flavioferr/rainmeter-bento), [Prisma](https://github.com/flavioferr/rainmeter-prisma), [Linea](https://github.com/flavioferr/rainmeter-linea), [Pixel](https://github.com/flavioferr/rainmeter-pixel), [Soft](https://github.com/flavioferr/rainmeter-soft), [Swiss](https://github.com/flavioferr/rainmeter-swiss), [Island](https://github.com/flavioferr/rainmeter-island), [Divisa](https://github.com/flavioferr/rainmeter-divisa), [Serra](https://github.com/flavioferr/rainmeter-serra), [Mosaico](https://github.com/flavioferr/rainmeter-mosaico), [Painel](https://github.com/flavioferr/rainmeter-painel), [Eixo](https://github.com/flavioferr/rainmeter-eixo), [Maré](https://github.com/flavioferr/rainmeter-mare), [Bússola](https://github.com/flavioferr/rainmeter-bussola), [Lousa](https://github.com/flavioferr/rainmeter-lousa), [Console](https://github.com/flavioferr/rainmeter-console), [Régua](https://github.com/flavioferr/rainmeter-regua).
+
+---
+
+## English
+
+**Word** — No background: the time in words lights up on a grid of letters.
+
+A minimalist skin for [Rainmeter](https://www.rainmeter.net) with its own settings screen, now in **English and Portuguese**.
+
+### Widgets
+
+| Widget | What it shows |
+|---|---|
+| **Grid** | Word clock: the words of the time light up on a grid of letters. The little dots below count the minutes between one multiple of 5 and the next. |
+| **Footer** | Date and weather on one line and, below, what's playing with discreet controls. |
+
+### Themes
+
+4 ready-made themes: Chalk, Amber, Neon, Ink.
+
+### Installation
+
+1. Install [Rainmeter](https://www.rainmeter.net) (4.5 or newer).
+2. Download [`Palavra.rmskin`](https://github.com/flavioferr/rainmeter-palavra/releases/latest) from the Releases page.
+3. Double-click the file and click **Install**.
+4. Right-click any widget and choose **English**. The whole suite switches language (and back with **Português**).
+
+### Tips
+
+- **Settings:** right-click any widget → **Settings** (there is also an **EN/PT** button next to the close button).
+- **Music:** the player reads everything in the Windows media controls — Spotify, YouTube, Netflix and any website in the browser, Apple Music, Deezer, VLC… The [WebNowPlaying](https://github.com/keifufu/WebNowPlaying-Rainmeter) plugin (MIT) is included in the `.rmskin`.
+- **Weather:** type your city in the settings; the coordinates are looked up automatically. Data from [Open-Meteo](https://open-meteo.com), free and without an API key.
+
+### Requirements
+
+Windows 10 or 11 and Rainmeter 4.5+. If the player stays empty, install the [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe).
+
+### License
+
+[CC BY-NC-SA 4.0](LICENSE.md) — use, modify and share with credit, non-commercially.
+
+---
 
 ## Licença
 
